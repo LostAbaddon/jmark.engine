@@ -1,0 +1,13 @@
+{
+	"name": "jmark.engine",
+	"version": "0.0.1",
+	"description": "Markdown Parsing Engine",
+	"main": "build/jmark.engine.js",
+	"devDependencies": {
+		"grunt": "~0.4.2",
+		"grunt-contrib-uglify": "~0.2.4",
+		"grunt-contrib-copy": "~0.5.0",
+		"grunt-contrib-concat": "~0.5.0",
+		"grunt-contrib-jshint": "~0.10.0"
+	}
+}

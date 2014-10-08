@@ -1,4 +1,6 @@
-jmark.engine
+JMark.Engine
 ============
 
-J-Markdown Engine
+Project Name: J-Markdown Engine
+Version     : 0.0.1
+Author      : LostAbaddon
